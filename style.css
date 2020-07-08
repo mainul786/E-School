@@ -1,0 +1,100 @@
+.navbar img{
+    width: 198.07px;
+    height: 59px;
+}
+.hvr a:hover{
+    background-color: #21B573;
+    color: white; 
+    border-radius:15px;
+    padding:10px 50px;
+   
+}
+.top-banar{
+    background-repeat: no-repeat;
+    width:500px;
+    height: 346px;
+}
+.top-banar-padding{
+    padding: 20px 40px;
+}
+.container-fluid{
+    background-color: #F0FFF0;
+}
+#top-banar-para{
+    color: red;
+}
+#heading{
+    color: #21B573;
+}
+.btn{
+    background-color: #21B573;
+    color: white;
+    border:none ;
+    border-radius: 33px;
+    padding: 12px 36px;
+}
+.card1{
+    width: 66px;
+    height: 85px;
+    align-items: center;
+}
+.card2{
+    padding-top:40px;
+    margin-left:20px;
+    background-color: #F8FFFB;
+    border: none;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    width: 270px;
+    height: 270px;
+    margin-bottom: 50px;
+}
+
+.container{
+    margin-bottom: 50px;
+}
+.card2:hover{
+    background-color: lightpink;
+}
+.online-heading{
+text-align: center;
+}
+.card{
+    margin-top:40px; 
+     
+}
+.calender{
+    width:24px;
+    height: 24px;
+}
+.people{
+    width: 24px;
+    height: 24px;
+}
+.testimonial{
+    margin-top: 50px;
+}
+.testimonial-banar{
+    width: 120px;
+    height: 120px;
+    margin-left:400px ;
+}
+.testimonial-text{
+    margin-right: 250px;
+}
+.footers{
+    margin-top: 45px;
+    padding-top: 50px;
+    height: 369px;
+    color: white;
+    background-color: #282531;
+}
+.list-style{
+    list-style: none;
+    
+}
+#mail{
+    text-align: center;
+    padding-top:120px;
+}
